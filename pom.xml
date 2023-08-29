@@ -5,7 +5,7 @@
 
   <groupId>za.co.scrinium</groupId>
   <artifactId>ecommerce</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</>
   <packaging>war</packaging>
 
   <properties>
